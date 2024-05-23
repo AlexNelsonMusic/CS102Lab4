@@ -67,14 +67,6 @@ main{
     margin-left: 170px;
     padding-top: 1em;
 }
-section h3{
-    position: absolute;
-    padding-left: 2.5em;
-}
-section p{
-    margin-top: 4em;
-    padding-left: 3em;
-}
 footer{
     background-color: #80cbc4;
     font-size: .60em;
@@ -102,6 +94,8 @@ footer{
 .onethird{
     float: left;
     width: 33%;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 .fixoverlap{
     width: 20%;
